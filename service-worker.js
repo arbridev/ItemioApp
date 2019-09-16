@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ItemioApp/precache-manifest.5b681f9f2f6837df26ae8d56da89ac36.js"
+  "/ItemioApp/precache-manifest.6bd0be84c9d9bd87dcaecfd09fe87f07.js"
 );
 
 self.addEventListener('message', (event) => {
